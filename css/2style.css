@@ -1,0 +1,74 @@
+header{
+background: url("http://newsroom.unfccc.int/media/407559/flag_of_cameroonsvg.png?crop=0.065,0.28,0.0500442477876106,0.27752212389380526&cropmode=percentage&width=768&height=256&rnd=130879946480000000");
+text-align: center;
+background-size: cover;
+}
+
+h1{
+    font-size: 70px;
+    margin-left: 300px;
+    padding-right: 325px;
+}
+p {
+    margin: 20px 0px;
+    line-height: 1.5;
+    font-size: 20px;
+    clear: left;
+    text-align: center;
+}
+article {
+    margin-top: 50px;
+    display: block;
+    font-family: 'PT Sans Narrow', sans-serif;
+
+}
+.container {
+    margin: 0 auto;
+    padding: 50px;
+    width: 50%;
+    font-size: 20px;
+}
+
+h2{
+	font-size: 50px;
+}
+
+h3{
+	font-weight: bold;
+}
+p{
+	display: inline;
+}
+.jricepic img{
+	height: 500px;
+	width: 600px;
+	padding-top: 20px;
+	padding-left: 50px;
+}
+.method{
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
+.ndole img{
+	height: 400px;
+	width: 550px;
+	padding-top: 40px;
+}
+.caption {
+    font-style: italic;
+    opacity: .6;
+  }
+.jl{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.puff img{
+	padding-top: 40px;
+}
+.puffpuff{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.RB img{
+	padding-top: 40px;
+}

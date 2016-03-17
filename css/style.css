@@ -1,0 +1,70 @@
+header{
+background: url("http://newsroom.unfccc.int/media/407559/flag_of_cameroonsvg.png?crop=0.065,0.28,0.0500442477876106,0.27752212389380526&cropmode=percentage&width=768&height=256&rnd=130879946480000000");
+text-align: center;
+background-size: cover;
+}
+h1{
+    font-size: 70px;
+    margin: 20px;
+}
+li {
+    display: inline;
+}
+p {
+    margin: 20px 0px;
+    line-height: 1.5;
+    font-size: 20px;
+    clear: left;
+    text-align: center;
+}
+article {
+    margin-top: 50px;
+    display: block;
+    font-family: 'PT Sans Narrow', sans-serif;
+
+}
+.container {
+    margin: 0 auto;
+    padding: 50px;
+    width: 50%;
+}
+button {
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 2px 6px 3px;
+    border: 2px outset buttonface;
+}
+ button {
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em 0em 0em 0em;
+    font: 11px BlinkMacSystemFont;
+}
+button{
+    -webkit-writing-mode: horizontal-tb;
+}
+button {
+    -webkit-appearance: button;
+}
+.hide {
+    display: none;
+}
+h2{
+    font-size: 50px;
+}
